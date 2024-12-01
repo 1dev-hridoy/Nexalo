@@ -19,7 +19,7 @@ We take the security of Nexalo seriously. If you have discovered a security vuln
 
 1. **Do not** report security vulnerabilities through public GitHub issues.
 
-2. Instead, please send an email to [security@nexalo.example.com](mailto:dev.hridoy2002@gmail.com) with the subject "Security Vulnerability Report".
+2. Instead, please send an email to [dev.hridoy2002@gmail.com](mailto:dev.hridoy2002@gmail.com) with the subject "Security Vulnerability Report".
 
 3. Include the following information in your report:
    - Type of vulnerability
